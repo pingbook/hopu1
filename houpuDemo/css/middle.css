@@ -1,0 +1,149 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.first-figure {
+	margin-top: 60px;
+}
+/*面包屑导航*/
+.nav-line {
+	width: 100%;
+	height: 45px;
+	background-color: #EFE3E3;
+}
+.breadcrumb-trail .nav-text {
+	margin-top: 15px;
+}
+.breadcrumb {
+	display: inline-block;
+	padding:0 15px;
+	list-style: none;
+	margin-left: 530px;
+}
+/*关于厚溥*/
+.myleftDiv {
+	width: 300px;
+	height: 40px;
+	border-radius: 17px;
+	background-color: #DFEFFA;
+	margin-top: 10px;
+}
+.myleftDiv a {
+	text-decoration: none;
+	color: #250E0E;
+}
+.myleftDiv a:hover {
+	text-decoration: none;
+	color: #3B62FB;
+}
+.myleftDiv .span1 {
+	padding-left: 60px;
+	font-size: 22px;
+	font-family: "华文新魏";
+	line-height: 40px;
+}
+.myleftDiv .span2 {
+	padding-left: 100px;
+	font-size: 22px;
+}
+.title1 {
+	margin-top: 100px;
+	margin-bottom: 20px;
+	text-align: center;
+	font-size: 26px;
+	font-weight: bold;
+	font-family: "华文新魏";
+}
+.content1 {
+	font-size: 20px;
+	line-height: 40px;
+	font-family: "华文新魏";
+}
+.boundary {
+	position: absolute;
+	top: 1050px;
+	width: 100%;
+	height: 3px;
+	background-color: #AAD9FA;
+}
+.firm {
+	position: absolute;
+	top: 160px;
+	left: 500px;
+	width: 200px;
+	height: 50px;
+	background-color: #FF5200;
+	border-radius: 15px;
+	text-align: center;
+	line-height: 50px;
+	font-size: 20px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.company {
+	margin-left: 500px;
+	margin-top: 300px;
+}
+.company div {
+	display: inline-block;
+}
+.company .img1 {
+	position: absolute;
+	top: 1200px;
+	left: 730px;
+	margin-left: 10px;
+	z-index: -1;
+}
+.company .img2 {
+	position: absolute;
+	top: 1150px;
+	left: 890px;
+	z-index: 10;
+}
+.company .img3 {
+	position: absolute;
+	top: 1200px;
+	left: 1045px;
+	z-index: -1;
+}
+.company .img4 {
+	position: absolute;
+	top: 1350px;
+	left: 642px;
+	margin-left: 10px;
+	z-index: -1;
+}
+.company .img5 {
+	position: absolute;
+	top: 1350px;
+	left: 1240px;
+	margin-left: 10px;
+	z-index: -1;
+}
+/*底部样式*/
+.footer-content{
+	margin-top: 740px;
+	width: 100%;
+	height: 190px;
+	background: #DFEFFA;
+	position: relative;
+}
+.footer-content img {
+	margin-bottom: 10px;
+}
+.footer-content p{
+	font-family: "微软雅黑";
+	font-size: 16px;
+}
+.footer-logo{
+	text-align: center;
+    line-height: 25px;
+    position: absolute;
+    top: 20px;
+    left: 100px;
+    width: 100%;
+}
+.footer-content .footer-adds {
+	margin-left: 250px;
+    margin-top: 40px;
+}
